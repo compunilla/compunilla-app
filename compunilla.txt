@@ -1,1 +1,1 @@
-http://planettvweb.com:8091/get.php?username=NellyV&password=DRun6395d&type=m3u_plus&output=m3u8
+http://23.153.217.158:8080/get.php?username=951363474tv&password=73c345nz25&type=m3u_plus&output=m3u8
